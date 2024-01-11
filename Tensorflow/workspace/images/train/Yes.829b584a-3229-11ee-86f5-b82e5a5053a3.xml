@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Yes.829b584a-3229-11ee-86f5-b82e5a5053a3.jpg</filename>
+	<path>C:\Users\rejha\signlanguagedetection\Tensorflow\workspace\images\collectedimages\Yes.829b584a-3229-11ee-86f5-b82e5a5053a3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>389</ymin>
+			<xmax>1274</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+</annotation>

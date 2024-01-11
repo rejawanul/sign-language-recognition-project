@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>No.a230f8f5-3229-11ee-8f12-b82e5a5053a3.jpg</filename>
+	<path>C:\Users\rejha\signlanguagedetection\Tensorflow\workspace\images\collectedimages\No.a230f8f5-3229-11ee-8f12-b82e5a5053a3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>459</ymin>
+			<xmax>1159</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

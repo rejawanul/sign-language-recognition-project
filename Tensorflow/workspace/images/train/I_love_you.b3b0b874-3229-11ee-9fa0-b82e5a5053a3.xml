@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>I_love_you.b3b0b874-3229-11ee-9fa0-b82e5a5053a3.jpg</filename>
+	<path>C:\Users\rejha\signlanguagedetection\Tensorflow\workspace\images\collectedimages\I_love_you.b3b0b874-3229-11ee-9fa0-b82e5a5053a3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Iloveyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>301</ymin>
+			<xmax>1060</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
